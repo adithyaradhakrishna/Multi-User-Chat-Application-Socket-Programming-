@@ -14,6 +14,7 @@ A foundational **real-time chat application** demonstrating direct network commu
 
 ---
 
+
 ## 💻 Technologies Used
 
 - **Python 3.x**
